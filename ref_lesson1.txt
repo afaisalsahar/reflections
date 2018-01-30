@@ -1,2 +1,5 @@
 1) How did viewing a diff between two versions help you spot the bug?
 Since I could see what was deleted in the old version and what was added in the new version side by side, that made finding bug easier.
+
+2) Saving manual copies?
+I've been saving manual copies of my FCC assignments recently and that works too, I've also kinda known about the history tab in wikipedia but never actually clicked to see what's there? Will definetly check it out.
