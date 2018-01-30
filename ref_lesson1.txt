@@ -12,3 +12,6 @@ Being able to access the entire history of a file makes programming more effecie
 
 5) How can you use the commands git log and git diff to view the history of files?
 The git log command is unsurprisingly "git log" and it displays a history of all commits in a repository and git diff is also very similiar to defaultunix like diff command but it just comes with one more added feature of allowing for the commits to be compared not just files, well also I have to see whether it can compare files even though it sounds like just not so requried because the diff command already does that.
+
+6) How might using version control make you more confident to make changes that could break something?
+The way it makes a developer more confident to go ahead and make changes while at the same time not being worried about the fact that it may break something is as soon as you have a working version you can commit and come back to it anytime you feel lost or don't want to spend time fixing bugs.
