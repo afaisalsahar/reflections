@@ -1,0 +1,2 @@
+1) How did viewing a diff between two versions help you spot the bug?
+Since I could see what was deleted in the old version and what was added in the new version side by side, that made finding bug easier.
