@@ -15,3 +15,6 @@ The git log command is unsurprisingly "git log" and it displays a history of all
 
 6) How might using version control make you more confident to make changes that could break something?
 The way it makes a developer more confident to go ahead and make changes while at the same time not being worried about the fact that it may break something is as soon as you have a working version you can commit and come back to it anytime you feel lost or don't want to spend time fixing bugs.
+
+7) Now that you have your workspace set up, what do you want to try using Git for?
+I want to use git for my programs and to manage my code well.
