@@ -3,3 +3,6 @@ Since I could see what was deleted in the old version and what was added in the 
 
 2) Saving manual copies?
 I've been saving manual copies of my FCC assignments recently and that works too, I've also kinda known about the history tab in wikipedia but never actually clicked to see what's there? Will definetly check it out.
+
+3) What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Well the pros of choosing when to create a commit manually is you can seperate the commits into logical chunks, for instance after you implement a feature or finish an assingment and that control is not available with autmatic commits, it makes a clear and clean history but it's also possible that you may forget to create a commit and that's a down side to manual commits.
