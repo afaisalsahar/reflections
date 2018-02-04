@@ -15,3 +15,6 @@ Diagrams can be really helpful especially when the a repistory has many branches
 
 6) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 By merging two branches together we create one a branch that consists of all the commits made in both branches, the diagram representation makes it easy to understand and wrap your head around the entire commits history and what you'll end up with.
+
+7) What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+The pros would be that the user wouldn't have to see what's conflicting or what's wrong and git will chose the best solution possible but then that same reason can be one of the reasons that git can screw up because as a coder you know what's the best solution or what what worked best for you and maybe git can get that wrong. It's a good thing that git leaves it and let's you resolve conflicts manually.
