@@ -12,3 +12,6 @@ When starting to work on an experimental feature something that's not a big fix 
 
 5) How do the diagrams help you visualize the branch structure?
 Diagrams can be really helpful especially when the a repistory has many branches and each with multiple commits, it made sense through diagrams how branches work and how reachability actually works and the detached head state also started to make sense.
+
+6) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+By merging two branches together we create one a branch that consists of all the commits made in both branches, the diagram representation makes it easy to understand and wrap your head around the entire commits history and what you'll end up with.
